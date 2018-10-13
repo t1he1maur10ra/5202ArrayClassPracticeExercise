@@ -1,7 +1,6 @@
-﻿/*
-  Name: Jacob Van Silfhout
-    Id: JV1
-*/
+﻿/* Name: Jacob Van Silfhout
+      Id: JV1
+          This is a potential answer to the practice question*/
 using System;
 
 namespace Practice_Exercise
